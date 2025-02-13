@@ -311,7 +311,7 @@ textarea {
   height: 2.5rem;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--accent), var(--accent-light));
-  color: white;
+  color: white; /* Ensure the icon inherits the button's color */
   border: none;
   display: flex;
   align-items: center;
@@ -321,22 +321,36 @@ textarea {
   box-shadow: 0 2px 8px rgba(0, 204, 136, 0.2);
 }
 
+.send-icon {
+  width: 20px; /* Adjust the icon size */
+  height: 20px;
+  fill: currentColor; /* Use the button's color */
+}
 .send-button:hover:not(:disabled) {
   transform: scale(1.05) rotate(5deg);
   box-shadow: 0 4px 15px rgba(0, 204, 136, 0.3);
 }
 
 .send-button:active:not(:disabled) {
-  transform: scale(0.95);
+  transform: scale(1); /* Avoid shrinking */
 }
 
-.send-icon {
+/* .send-button:hover:not(:disabled) {
+  transform: scale(1.05) rotate(5deg);
+  box-shadow: 0 4px 15px rgba(0, 204, 136, 0.3);
+}
+
+.send-button:active:not(:disabled) {
+  transform: scale(0.95);
+} */
+
+/* .send-icon {
   width: 1.25rem;
   height: 1.25rem;
   stroke: currentColor;
   stroke-width: 2;
   transition: transform 0.3s ease;
-}
+} */
 
 /* Dark theme specific styles */
 .dark .input-wrapper {
@@ -374,11 +388,10 @@ textarea {
     right: 0.5rem;
     bottom: 0.5rem;
   }
-
-  .send-icon {
-    width: 1.125rem;
-    height: 1.125rem;
-  }
+  /* .send-icon {
+    width: 24px; 
+    height: 24px; 
+  } */
 }
 
 /* Welcome Screen */
