@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <a href="https://jamalihassan0307.github.io/travel-blogging-platfoam/" target="_blank">
+    <a href="https://deepseek-jamalihassan0307.web.app/" target="_blank">
         <img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" />
     </a>
     <a href="https://github.com/jamalihassan0307" target="_blank">
