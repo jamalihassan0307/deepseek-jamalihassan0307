@@ -1,6 +1,6 @@
 <div align="center">
-      <h1> <img src="https://img.icons8.com/color/48/000000/beach.png" width="80px"><br/>Travel Blog Platform</h1>
-      <h3>A Modern Travel Blogging Community</h3>
+      <h1> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="80px"><br/>DeepSeek AI Chat</h1>
+      <h3>An Advanced AI Chat Interface Powered by DeepSeek</h3>
 </div>
 
 <p align="center">
@@ -17,81 +17,78 @@
 
 # 📌 Overview
 
-Travel Blog is a dynamic web platform that connects travel enthusiasts and bloggers. Users can share their travel experiences, engage with other travelers through likes and comments, and manage their content through an intuitive interface.
+DeepSeek AI Chat is a modern chat interface that leverages the power of DeepSeek's AI models. It provides an intuitive platform for users to interact with advanced AI, featuring code highlighting, dark mode, and responsive design.
 
 # 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MockAPI](https://img.shields.io/badge/MockAPI-REST-green?style=for-the-badge)
+![DeepSeek AI](https://img.shields.io/badge/DeepSeek-AI-green?style=for-the-badge)
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/dark_home1.png" alt="Dark Home 1" width="800"/>
-  <img src="screenshots/dark_home2.png" alt="Dark Home 2" width="800"/>
-  <img src="screenshots/dark_home3.png" alt="Dark Home 3" width="800"/>
-  <img src="screenshots/dark_home4.png" alt="Dark Home 4" width="800"/>
-  <img src="screenshots/dark_mobile_view.png" alt="Dark Mobile View" width="800"/>
-  <img src="screenshots/dark_mobile_view1.png" alt="Dark Mobile View 1" width="800"/>
-  <img src="screenshots/deepseeker_r1.png" alt="Deepseeker R1" width="800"/>
-  <img src="screenshots/home1.png" alt="Home 1" width="800"/>
-  <img src="screenshots/home2.png" alt="Home 2" width="800"/>
-  <img src="screenshots/home3_loading.png" alt="Home 3 Loading" width="800"/>
-  <img src="screenshots/home4_code.png" alt="Home 4 Code" width="800"/>
-  <img src="screenshots/home5_code1.png" alt="Home 5 Code 1" width="800"/>
-  <img src="screenshots/mobile_view.png" alt="Mobile View" width="800"/>
-  <img src="screenshots/mobile_view1.png" alt="Mobile View 1" width="800"/>
-  <img src="screenshots/mobile_view2.png" alt="Mobile View 2" width="800"/>
-  <img src="screenshots/mobile_view3.png" alt="Mobile View 3" width="800"/>
-  <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
-  <img src="screenshots/deepseeker_r1_detail.png" alt="Deepseeker Detail" width="800"/>
-  <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
-  <img src="screenshots/javascript_integration_method.png" alt="JavaScript Integration Method" width="800"/>
-  <img src="screenshots/latency_throuput.png" alt="Latency Throughput" width="800"/>
-  <img src="screenshots/mykeys.png" alt="My Keys" width="800"/>
-  <img src="screenshots/openrouter.png" alt="Open Router" width="800"/>
-  <img src="screenshots/recet_activityR1.png" alt="Recent Activity R1" width="800"/>
-  <img src="screenshots/your_activity.png" alt="Your Activity" width="800"/>
+  <!-- Main Interface -->
+  <h4>Desktop Interface - Dark Theme</h4>
+  <img src="screenshots/dark_home1.png" alt="Dark Theme Home" width="800"/>
+  <br/><br/>
+  
+  <h4>Desktop Interface - Light Theme</h4>
+  <img src="screenshots/home1.png" alt="Light Theme Home" width="800"/>
+  <br/><br/>
+  
+  <h4>Code Highlighting Feature</h4>
+  <img src="screenshots/home4_code.png" alt="Code Highlighting" width="800"/>
+  <br/><br/>
+  
+  <h4>Loading States</h4>
+  <img src="screenshots/home3_loading.png" alt="Loading States" width="800"/>
+  <br/><br/>
+  
+  <!-- Mobile Views -->
+  <h4>Mobile Interface</h4>
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
+    <img src="screenshots/mobile_view.png" alt="Mobile Light Theme" width="300"/>
+    <img src="screenshots/dark_mobile_view.png" alt="Mobile Dark Theme" width="300"/>
+  </div>
+  
+  <!-- Features -->
+  <h4>Key Features</h4>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px;">
+    <img src="screenshots/deepseeker_r1.png" alt="AI Model Integration" width="400"/>
+    <img src="screenshots/home5_code1.png" alt="Code Examples" width="400"/>
+  </div>
 </div>
 
 ## 🔑 Key Features
 
-### For Bloggers
+### Chat Interface
 
-- Create and publish travel blogs
-- Upload images and rich text content
-- Engage with readers through comments
-- Track post engagement (likes, comments)
-- Choose between Basic and Pro subscription plans
+- Real-time AI responses
+- Code syntax highlighting
+- Markdown support
+- Copy code functionality
+- Message history
+- Loading states and animations
 
-### For Administrators
+### Theming
 
-- Approve new blogger applications
-- Monitor platform statistics
-- Manage user accounts
-- Review content moderation
-
-### General Features
-
+- Dark/Light mode toggle
+- Smooth theme transitions
+- Custom color schemes
 - Responsive design
-- User authentication
-- Social interactions (likes, comments)
-- Real-time updates
-- Image upload support
 
-## 👨‍💻 Developer Contact
+### Technical Features
 
-Feel free to reach out for questions or collaboration:
+- Local storage persistence
+- Error handling
+- Mobile responsiveness
+- Code formatting
+- Typing indicators
 
-- GitHub: [@jamalihassan0307](https://github.com/jamalihassan0307)
-- LinkedIn: [Jamali Hassan](https://www.linkedin.com/in/jamalihassan0307/)
+## 🚀 Getting Started
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-
-- MockAPI for backend services
-- Font Awesome for icons
-- All contributors and supporters
+1. Clone the repository
