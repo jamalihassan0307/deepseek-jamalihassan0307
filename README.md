@@ -106,7 +106,3 @@ DeepSeek AI Chat is a modern chat interface that leverages the power of DeepSeek
 - Mobile responsiveness
 - Code formatting
 - Typing indicators
-
-## 🚀 Getting Started
-
-1. Clone the repository
