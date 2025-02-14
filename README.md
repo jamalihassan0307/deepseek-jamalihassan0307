@@ -29,8 +29,6 @@ Travel Blog is a dynamic web platform that connects travel enthusiasts and blogg
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
-  <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
   <img src="screenshots/dark_home1.png" alt="Dark Home 1" width="800"/>
   <img src="screenshots/dark_home2.png" alt="Dark Home 2" width="800"/>
   <img src="screenshots/dark_home3.png" alt="Dark Home 3" width="800"/>
@@ -44,12 +42,14 @@ Travel Blog is a dynamic web platform that connects travel enthusiasts and blogg
   <img src="screenshots/home3_loading.png" alt="Home 3 Loading" width="800"/>
   <img src="screenshots/home4_code.png" alt="Home 4 Code" width="800"/>
   <img src="screenshots/home5_code1.png" alt="Home 5 Code 1" width="800"/>
-  <img src="screenshots/javascript_integration_method.png" alt="JavaScript Integration Method" width="800"/>
-  <img src="screenshots/latency_throuput.png" alt="Latency Throughput" width="800"/>
   <img src="screenshots/mobile_view.png" alt="Mobile View" width="800"/>
   <img src="screenshots/mobile_view1.png" alt="Mobile View 1" width="800"/>
   <img src="screenshots/mobile_view2.png" alt="Mobile View 2" width="800"/>
   <img src="screenshots/mobile_view3.png" alt="Mobile View 3" width="800"/>
+  <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
+  <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
+  <img src="screenshots/javascript_integration_method.png" alt="JavaScript Integration Method" width="800"/>
+  <img src="screenshots/latency_throuput.png" alt="Latency Throughput" width="800"/>
   <img src="screenshots/mykeys.png" alt="My Keys" width="800"/>
   <img src="screenshots/openrouter.png" alt="Open Router" width="800"/>
   <img src="screenshots/recet_activityR1.png" alt="Recent Activity R1" width="800"/>
