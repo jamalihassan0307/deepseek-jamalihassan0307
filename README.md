@@ -28,47 +28,6 @@ Travel Blog is a dynamic web platform that connects travel enthusiasts and blogg
 
 ## 📸 Screenshots
 
-### API Configuration
-
-<div align="center">
-  <img src="screenshots/mockapi.png" alt="MockAPI Setup" width="800"/>
-</div>
-
-### Blog Dashboard
-
-<div align="center">
-  <img src="screenshots/visit_blog.png" alt="Blog Dashboard" width="800"/>
-  <img src="screenshots/visit_blog1.png" alt="Blog Posts" width="800"/>
-</div>
-
-### Content Creation
-
-<div align="center">
-  <img src="screenshots/create_new_blog.png" alt="Create New Blog" width="800"/>
-  <img src="screenshots/approval_pending.png" alt="Pending Approval" width="800"/>
-</div>
-
-### User Management
-
-<div align="center">
-  <img src="screenshots/choose_your_plan.png" alt="Subscription Plans" width="800"/>
-  <img src="screenshots/blogger_or_paid_account.png" alt="Account Types" width="800"/>
-</div>
-
-### Engagement Features
-
-<div align="center">
-  <img src="screenshots/comment_read_add.png" alt="Comments Section" width="800"/>
-</div>
-
-### Admin Dashboard
-
-<div align="center">
-  <img src="screenshots/admin_apporal_dashboard.png" alt="Admin Dashboard" width="800"/>
-</div>
-
-### Additional Screenshots
-
 <div align="center">
   <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
   <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
