@@ -31,36 +31,54 @@ DeepSeek AI Chat is a modern chat interface that leverages the power of DeepSeek
 ## 📸 Screenshots
 
 <div align="center">
-  <!-- Main Interface -->
+  <!-- Main Interface - Dark Theme -->
   <h4>Desktop Interface - Dark Theme</h4>
-  <img src="screenshots/dark_home1.png" alt="Dark Theme Home" width="800"/>
+  <img src="screenshots/dark_home1.png" alt="Dark Home 1" width="800"/>
+  <img src="screenshots/dark_home2.png" alt="Dark Home 2" width="800"/>
+  <img src="screenshots/dark_home3.png" alt="Dark Home 3" width="800"/>
+  <img src="screenshots/dark_home4.png" alt="Dark Home 4" width="800"/>
   <br/><br/>
-  
+
+  <!-- Main Interface - Light Theme -->
   <h4>Desktop Interface - Light Theme</h4>
-  <img src="screenshots/home1.png" alt="Light Theme Home" width="800"/>
-  <br/><br/>
-  
-  <h4>Code Highlighting Feature</h4>
-  <img src="screenshots/home4_code.png" alt="Code Highlighting" width="800"/>
-  <br/><br/>
-  
-  <h4>Loading States</h4>
+  <img src="screenshots/home1.png" alt="Home 1" width="800"/>
+  <img src="screenshots/home2.png" alt="Home 2" width="800"/>
   <img src="screenshots/home3_loading.png" alt="Loading States" width="800"/>
+  <img src="screenshots/home4_code.png" alt="Code Highlighting" width="800"/>
+  <img src="screenshots/home5_code1.png" alt="Code Examples" width="800"/>
   <br/><br/>
-  
+
   <!-- Mobile Views -->
   <h4>Mobile Interface</h4>
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 40px;">
-    <img src="screenshots/mobile_view.png" alt="Mobile Light Theme" width="300"/>
-    <img src="screenshots/dark_mobile_view.png" alt="Mobile Dark Theme" width="300"/>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 40px;">
+    <img src="screenshots/mobile_view.png" alt="Mobile View" width="200"/>
+    <img src="screenshots/mobile_view1.png" alt="Mobile View 1" width="200"/>
+    <img src="screenshots/mobile_view2.png" alt="Mobile View 2" width="200"/>
+    <img src="screenshots/mobile_view3.png" alt="Mobile View 3" width="200"/>
+    <img src="screenshots/dark_mobile_view.png" alt="Dark Mobile View" width="200"/>
+    <img src="screenshots/dark_mobile_view1.png" alt="Dark Mobile View 1" width="200"/>
   </div>
-  
-  <!-- Features -->
-  <h4>Key Features</h4>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px;">
-    <img src="screenshots/deepseeker_r1.png" alt="AI Model Integration" width="400"/>
-    <img src="screenshots/home5_code1.png" alt="Code Examples" width="400"/>
-  </div>
+
+  <!-- Integration & Features -->
+  <h4>Integration Features</h4>
+  <img src="screenshots/deepseeker_r1.png" alt="Deepseeker R1" width="800"/>
+  <img src="screenshots/deepseeker_r1_detail.png" alt="Deepseeker Detail" width="800"/>
+  <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
+  <br/><br/>
+
+  <!-- API & Configuration -->
+  <h4>API & Setup</h4>
+  <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
+  <img src="screenshots/javascript_integration_method.png" alt="JavaScript Integration" width="800"/>
+  <img src="screenshots/mykeys.png" alt="My Keys" width="800"/>
+  <img src="screenshots/openrouter.png" alt="Open Router" width="800"/>
+  <br/><br/>
+
+  <!-- Analytics & Activity -->
+  <h4>Analytics & Performance</h4>
+  <img src="screenshots/latency_throuput.png" alt="Latency Throughput" width="800"/>
+  <img src="screenshots/recet_activityR1.png" alt="Recent Activity" width="800"/>
+  <img src="screenshots/your_activity.png" alt="Your Activity" width="800"/>
 </div>
 
 ## 🔑 Key Features
