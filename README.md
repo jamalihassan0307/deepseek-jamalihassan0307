@@ -33,7 +33,6 @@ Travel Blog is a dynamic web platform that connects travel enthusiasts and blogg
   <img src="screenshots/dark_home2.png" alt="Dark Home 2" width="800"/>
   <img src="screenshots/dark_home3.png" alt="Dark Home 3" width="800"/>
   <img src="screenshots/dark_home4.png" alt="Dark Home 4" width="800"/>
-  <img src="screenshots/deepseeker_r1_detail.png" alt="Deepseeker Detail" width="800"/>
   <img src="screenshots/dark_mobile_view.png" alt="Dark Mobile View" width="800"/>
   <img src="screenshots/dark_mobile_view1.png" alt="Dark Mobile View 1" width="800"/>
   <img src="screenshots/deepseeker_r1.png" alt="Deepseeker R1" width="800"/>
@@ -47,6 +46,7 @@ Travel Blog is a dynamic web platform that connects travel enthusiasts and blogg
   <img src="screenshots/mobile_view2.png" alt="Mobile View 2" width="800"/>
   <img src="screenshots/mobile_view3.png" alt="Mobile View 3" width="800"/>
   <img src="screenshots/apps_using_r1.png" alt="Apps Using" width="800"/>
+  <img src="screenshots/deepseeker_r1_detail.png" alt="Deepseeker Detail" width="800"/>
   <img src="screenshots/create-key.png" alt="Create Key" width="800"/>
   <img src="screenshots/javascript_integration_method.png" alt="JavaScript Integration Method" width="800"/>
   <img src="screenshots/latency_throuput.png" alt="Latency Throughput" width="800"/>
